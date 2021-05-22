@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gp2-gp2
-- 👀 I’m interested in backend and API
-- 🌱 I’m currently learning .net core web API
+- 👀 I’m interested in backend and API.
+- 🌱 I’m currently learning .net core web API and recently started also python programming.
 - 📫 How to reach me. Just drop me a message on github.
 
 <!---
