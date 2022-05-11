@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gp2-gp2
 - 👀 I’m interested in backends, APIs, Docker, Python.
 - 🌱 I’m currently tinkering with above technologies.
-- 📫 How to reach me? Just drop me a line on Twitter @gp2gp21.
+- 📫 How to reach me? Just drop me a message on Twitter @gp2gp21.
 
 <!---
 gp2-gp2/gp2-gp2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
